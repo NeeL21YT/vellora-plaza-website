@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/NeeL21YT/vellora-plaza-website/blob/main/images/logo.png?raw=true" width="180" alt="Vellora Plaza Logo">
+  <img src="https://github.com/NeeL21YT/vellora-plaza-website/blob/main/images/logo.webp?raw=true" width="180" alt="Vellora Plaza Logo">
 </p>
 
 <h1 align="center">🏢 Vellora Plaza Website</h1>
