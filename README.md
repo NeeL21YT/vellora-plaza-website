@@ -25,7 +25,7 @@
 
 </p>
 <p align="center">
-  <a href="https://neel21yt.github.io/vellora-plaza-website/">🌐 Live Demo</a>
+  <a href="https://vellora-plaza.netlify.app/">🌐 Live Demo</a>
 </p>
 
 
@@ -123,7 +123,7 @@ During the Summer Internship, we gained valuable insights and practical exposure
 ## 📂 Full Site Structure
 
 ```text
-neel21yt.github.io/vellora-plaza-website/
+vellora-plaza.netlify.app
 │
 ├── index.html                  — Homepage
 ├── shop.html                   — Shop & Brands
@@ -219,7 +219,7 @@ neel21yt.github.io/vellora-plaza-website/
 
 ## 🌐 Live Website
 
-### https://neel21yt.github.io/vellora-plaza-website/
+### https://vellora-plaza.netlify.app/
 
 ---
 
