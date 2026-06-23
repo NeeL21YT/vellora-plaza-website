@@ -7,7 +7,7 @@
 <nav class="navbar" id="navbar">
   <div class="nav-inner">
 
-    <a href="/vellora-plaza-website/" class="nav-logo">
+    <a href="/" class="nav-logo">
       <img src="images/logo.webp" alt="Vellora Plaza" />
       <div class="nav-logo-lockup">
         <span class="nav-logo-name">VELLORA</span>
@@ -16,7 +16,7 @@
     </a>
 
     <ul class="nav-links">
-      <li><a href="/vellora-plaza-website/">Home</a></li>
+      <li><a href="/">Home</a></li>
       <li><a href="shop">Shop</a></li>
       <li><a href="dine">Dine</a></li>
       <li><a href="entertainment">Entertainment</a></li>
@@ -38,7 +38,7 @@
 </nav>
 
 <div class="mobile-nav" id="mobileNav">
-  <a href="/vellora-plaza-website/">Home</a>
+  <a href="/">Home</a>
   <a href="shop">Shop</a>
   <a href="dine">Dine</a>
   <a href="entertainment">Entertainment</a>
@@ -55,8 +55,8 @@
     placeholder.outerHTML = NAV_HTML;
   }
 
-  // Highlight active link — works with /vellora-plaza-website/ base path
-  const base = '/vellora-plaza-website';
+  // Highlight active link — works with Netlify root path
+  const base = '';
   const currentPath = window.location.pathname
     .replace(base, '')
     .replace(/^\/?/, '/')

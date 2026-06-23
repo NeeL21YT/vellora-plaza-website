@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://neel21yt.github.io/vellora-plaza-website/sitemap.xml
+Sitemap: https://vellora-plaza.netlify.app/sitemap.xml
