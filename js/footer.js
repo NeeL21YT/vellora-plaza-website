@@ -2,15 +2,12 @@
    VELLORA PLAZA — Shared Footer Component
    Tagline: Curating luxury, Creating experiences!
    ============================================= */
-
 (function () {
   const year = new Date().getFullYear();
-
   const FOOTER_HTML = `
 <footer class="footer">
   <div class="container">
     <div class="footer-grid">
-
       <!-- Brand -->
       <div>
         <img src="images/logo.webp" alt="Vellora Plaza" class="footer-brand-logo" />
@@ -23,7 +20,6 @@
           <a href="#" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
         </div>
       </div>
-
       <!-- Explore -->
       <div class="footer-col">
         <h5>Explore</h5>
@@ -35,7 +31,6 @@
           <li><a href="services.html">Services</a></li>
         </ul>
       </div>
-
       <!-- Information -->
       <div class="footer-col">
         <h5>Information</h5>
@@ -47,7 +42,6 @@
           <li><a href="contact.html">Contact Us</a></li>
         </ul>
       </div>
-
       <!-- Contact -->
       <div class="footer-col">
         <h5>Visit Us</h5>
@@ -68,9 +62,7 @@
           <div class="footer-info-text"><a href="mailto:info@velloraplaza.com">info@velloraplaza.com</a></div>
         </div>
       </div>
-
     </div><!-- /.footer-grid -->
-
     <div class="footer-bottom">
       <p class="footer-copy">&copy; ${year} Vellora Plaza. All rights reserved.</p>
       <p class="footer-credits">Designed &amp; Marketed by <a href="https://github.com/NeeL21YT/vellora-plaza-website" class="highlight" target="_blank" rel="noopener noreferrer">AI Crew</a></p>
@@ -78,11 +70,14 @@
         <a href="privacy-policy.html">Privacy Policy</a>
         <a href="terms.html">Terms &amp; Conditions</a>
       </div>
+      <div class="footer-netlify">
+        <a href="https://www.netlify.com" target="_blank" rel="noopener noreferrer">
+          <img src="https://www.netlify.com/assets/badges/netlify-badge-dark.svg" alt="Deploys by Netlify" style="height:32px;" />
+        </a>
+      </div>
     </div>
-
   </div>
 </footer>`;
-
   const placeholder = document.getElementById('site-footer');
   if (placeholder) {
     placeholder.outerHTML = FOOTER_HTML;
