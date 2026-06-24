@@ -257,7 +257,7 @@ See the [LICENSE](LICENSE) file for more information.
 - Gratitude to my team members for their creativity, collaboration, and contribution in designing the visual assets used across the website.
 
 <pre>
-<b>Sonia</b> | <b>Phuntso</b> | <b>Tamanna</b> | <b>Nargish</b> | <b>Kanchan</b> | <b>Goury</b> | <b>Puja</b>
+<b>Phuntso</b> | <b>Sonia</b> | <b>Tamanna</b> | <b>Nargish</b> | <b>Kanchan</b> | <b>Goury</b> | <b>Puja</b>
 </pre>
 
 This project would not have been possible without their dedication and teamwork.
