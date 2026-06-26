@@ -70,11 +70,6 @@
         <a href="privacy-policy.html">Privacy Policy</a>
         <a href="terms.html">Terms &amp; Conditions</a>
       </div>
-      <div class="footer-netlify">
-        <a href="https://www.netlify.com" target="_blank" rel="noopener noreferrer">
-          <img src="https://www.netlify.com/assets/badges/netlify-badge-dark.svg" alt="Deploys by Netlify" style="height:32px;" />
-        </a>
-      </div>
     </div>
   </div>
 </footer>`;
